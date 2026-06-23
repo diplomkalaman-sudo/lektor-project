@@ -1,6 +1,6 @@
-# LEKTOR жобасы
+# LECTOR жобасы
 
-Бұл репозиторийде LEKTOR жобасының `frontend` және `backend` бастапқы кодтары сақталған.
+Бұл репозиторийде LECTOR жобасының `frontend` және `backend` бастапқы кодтары сақталған.
 
 ## Жоба құрылымы
 
@@ -27,7 +27,7 @@
 
 ```powershell
 git clone <repository-url>
-cd lektor-project
+cd lector-project
 ```
 
 ### 2. Backend үшін `.env` файлын жасау
